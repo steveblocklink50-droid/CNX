@@ -1,0 +1,7 @@
+{
+  "projectId": "",
+  "orgId": "",
+  "name": "nexium-ai",
+  "buildCommand": "npm run build",
+  "framework": "nextjs"
+}
